@@ -1,4 +1,4 @@
-# ZAIN AHMAD FAHREZI PORTFOLIO PROJECT
+# RASYA AKBAR PRATAMA PORTFOLIO PROJECT
 
 This is a React project developed using Vite — a modern build tool known for its high performance, Hot Module Replacement (HMR) support, and fast development time.
 
@@ -62,21 +62,3 @@ This project is an original work by **Zain Ahmad Fahrezi** and is intended for p
 If you wish to build upon this project or use parts of its ideas/code, **you must provide proper credit with a link to this repository**.
 
 Thank you for respecting the developer's work! 🙏
-
----
-
-## 💖 Support the Developer
-
-If you find this project helpful and wish to support:
-
-* 💳 **Dana:** 0896-0433-2830
-* 🏦 **BRI Bank Account:** 0342 0107 8321 503 (Zain Ahmad Fahrezi)
-* Paypal : paypal.me/zainahmadfahrezi
-
-Your support mePayns a lot and helps me continue building open-source projects. Thank you! 🙌
-
-## 🌐 Social Media
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/zainahmadfahrezi)
-* 📸 Instagram: [@zain.ahmadf](https://www.instagram.com/zain.ahmadf)
-* 🎥 TikTok: [@zainahmad.f](https://www.tiktok.com/@zainahmad.f)
